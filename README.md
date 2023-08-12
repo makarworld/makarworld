@@ -1,4 +1,7 @@
 ### Hi there 👋
+[![github](https://img.shields.io/badge/GitHub-26A5E4?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/makarworld)
+[![telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/abuztrade)
+[![PyPi](https://img.shields.io/badge/Pypi-26A5E4?style=for-the-badge&logo=PyPi&logoColor=white)](https://pypi.org/user/abuztrade/)
 
 <!--
 **makarworld/makarworld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
