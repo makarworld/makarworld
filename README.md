@@ -3,6 +3,7 @@
 [![telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/abuztrade)
 [![PyPi](https://img.shields.io/badge/Pypi-26A5E4?style=for-the-badge&logo=PyPi&logoColor=white)](https://pypi.org/user/abuztrade/)
 
+[![wakatime](https://wakatime.com/badge/user/46921aff-1f19-4049-affc-e4d831f9fd44.svg)](https://wakatime.com/@46921aff-1f19-4049-affc-e4d831f9fd44)
 <!--
 **makarworld/makarworld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
